@@ -19,7 +19,6 @@ sections:
     background_image: /images/2-tracks.svg
     background_image_opacity: 15
     background_image_size: cover
-    image: /images/TFPL Logo 1 - small.png
   - type: grid_section
     template: grid_section
     grid_items:
