@@ -9,7 +9,7 @@
         "type": "header",
         "template": "header",
         "title": "Event",
-        "logo": "images/logo.svg",
+        "logo": "/images/TFPL logo 2 - large.png",
         "logo_alt": "Event logo",
         "has_primary_nav": false,
         "has_secondary_nav": true,
