@@ -62,7 +62,7 @@ sections:
     background_color: secondary
   - type: features_section
     template: features_section
-    title: What you’ll experience
+    title: What We Offer
     features:
       - type: feature
         template: feature
