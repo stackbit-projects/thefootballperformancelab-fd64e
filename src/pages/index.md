@@ -15,7 +15,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: primary
     background_image: /images/TFPL logo 2 - large.png
     background_image_opacity: 15
     background_image_size: cover
