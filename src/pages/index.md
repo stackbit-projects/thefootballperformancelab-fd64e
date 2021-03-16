@@ -16,7 +16,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-    background_image: /images/2-tracks.svg
+    background_image: /images/TFPL logo 2 - large.png
     background_image_opacity: 15
     background_image_size: cover
   - type: grid_section
